@@ -9,6 +9,7 @@ class solution:
                 store[target-nums[i]]=i
             
 # Example usage:
+
 obj=solution()
 result=obj.twosum([2,7,11,15],9)
 print(result)
